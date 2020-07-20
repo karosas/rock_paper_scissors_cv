@@ -126,3 +126,6 @@ dmypy.json
 
 # Training images
 *.jpg
+
+# Generated models
+*.h5
